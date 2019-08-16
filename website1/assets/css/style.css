@@ -1,3 +1,24 @@
 body{
     background: #BDBDBD;
 }
+
+.jumbotron {
+    background: url("https://images.unsplash.com/photo-1470219556762-1771e7f9427d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80") center center / cover no-repeat;
+    margin-top: 50px;
+        }
+
+.column {
+    padding: 0px;
+}
+
+.tittle {
+    background-color: whitesmoke;
+    width: 100%;
+    font-size: 10vw;
+}
+
+.subtittle {
+    background-color: whitesmoke;
+    width: 100%;
+    font-size: 4vw;
+}
