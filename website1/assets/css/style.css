@@ -20,3 +20,6 @@
     width: 100%;
     font-size: 4vw;
 }
+.card-img-top{
+    max-height: 190px;
+}
